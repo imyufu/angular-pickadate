@@ -1,13 +1,13 @@
 {
-  "name": "ngpickadate",
-  "version": "1.1.0",
+  "name": "ng-datepicker-n1",
+  "version": "1.2.0",
   "homepage": "https://github.com/imyufu/angular-pickadate",
   "authors": [
     "imyufu <imyufu@gmail.com>"
   ],
   "description": "A simple and fluid inline datepicker for AngularJS with no extra dependencies",
   "keywords": [
-    "ngpickadate",
+    "ng-datepicker-n1",
     "datepicker",
     "angular",
     "angularjs",
